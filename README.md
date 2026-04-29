@@ -10,6 +10,7 @@ Este projeto é distribuído sob a licença MIT - veja o arquivo [LICENSE](LICEN
 
 - **Laravel**
 - **Jetstream**
+- **Livewire**
 - **MySQL**
 - **Javascript**
 - **Bootstrap**
@@ -31,6 +32,7 @@ Após executar todos os comandos serão criados os seguintes dados:
 **Usuário**
 - Login: teste@teste.com
 - Senha: 12345678
+
 **Categorias**
 - Alcoólico
 - Batido
